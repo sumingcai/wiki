@@ -1,0 +1,9 @@
+{
+  "name": "八月博客的wiki",
+  "ver": "",
+  "logo": "assets/logo.png",
+  "imports": [
+    "assets/bwb.css",
+    "assets/bwb.js"
+  ]
+}
