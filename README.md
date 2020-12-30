@@ -1,21 +1,27 @@
-# 三颗豆子的wiki
+# 八月博客的wiki
+
 ### 序
-想要把自己记录的东西分开，想了很久应该怎么操作，终于搭建起来了。<br>  
-记录 **<font color="#19be38">无聊但有用的内容</font>**：
-* （软件安装、运行中、编程中）出错的解决方法
-* （软件、系统、插件）快捷键
-* 英文说明文档的翻译  
 
-具有 **<font color="#19be38">强大的搜索功能</font>**：
-* 能够通过 **左上角的搜索栏** 输入相应的文字直接搜索出 **标题含关键字的文章**
-* 能够通过 **左上角的搜索按钮** 调出 **全库搜索** 输入相应的文字能够搜索出 **内容含关键字的文章**
+一直以来想要搭建一个网站记录收集或自己写作的内容，可以是一个软件使用方法，可以是某个算法的个人理解，在以后想起来时可以立马能找到而不用再去网上浩如烟海的信息中搜索。经过一段时间的摸索，总算搭建起来了，分为博客和wiki两个站点，博客用来记录自己个人总结归纳或者研究的内容，而wiki则是知识片段收集器，可以是工具书、快捷键、问题定位过程等，分类存储，能快速查找，现在终于搭建好了。  
 
-可以 **<font color="#19be38">浏览任何你想看的东西</font>**：
-* 软件崩溃报错、程序抛出异常、首次开发需要借助中文文档
-* 忘记matlab的常用语法了、忘记windows的快捷键了
+**<font color="#8baa4a">工具书</font>**：
+
+* 软件使用方法
+* 知识速查手册
+* 问题定位解决过程
+
+**<font color="#8baa4a">全局搜索</font>**：
+
+* 通过 **左上角的搜索栏** 输入直接关联出 **标题包含关键字的文章**
+* 通过 **左上角的搜索按钮** 调出 **全局搜索** 能够搜索出 **内容包含关键字的文章**
 
 ### 联系我
-<font color="#478cdc"><i class="fa fa-globe"></i></font> [个人博客（记录好玩的编程经验）](http://www.bewindoweb.com) / <font color="#478cdc"><i class="fa fa-github"></i></font> [github（开源项目）](https://github.com/BEWINDOWEB) / <font color="#478cdc"><i class="fa fa-envelope"></i></font> [发送邮件](Mailto:bewindoweb1995@foxmail.com)
+
+<font color="#478cdc"><i class="fa fa-globe"></i></font> [个人博客（可以留言）](https://sumcai.gitee.io)  
+<font color="#478cdc"><i class="fa fa-github"></i></font> [github个人主页](https://github.com/sumcai)  
+<font color="#478cdc"><i class="fa fa-envelope"></i></font> [sumcai@163.com](Mailto:sumcai@163.com)
 
 ### 关于wiki
-使用[amwiki](https://github.com/TevinLi/amWiki)基础框架搭建，托管于[github](https://wiki.bewindoweb.com/)，使用和分享权限为[BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)，开源赛高~
+
+* 这个wiki是基于TevinLi编写的[amwiki](https://github.com/TevinLi/amWiki)框架搭建
+* 在搭建过程中参考[三颗豆子的wiki](http://wiki.bewindoweb.com/)的样式进行改编
