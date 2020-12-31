@@ -10,3 +10,5 @@
     - [Github自动同步Gitee](?file=001-常用工具/001-程序员工具/0005-Github自动同步Gitee "Github自动同步Gitee")
 - **PhotoShop**
     - [矢量图](?file=001-常用工具/002-PhotoShop/0001-矢量图 "矢量图")
+    - [替换颜色](?file=001-常用工具/002-PhotoShop/0002-替换颜色 "替换颜色")
+    - [合并图片](?file=001-常用工具/002-PhotoShop/0003-合并图片 "合并图片")
